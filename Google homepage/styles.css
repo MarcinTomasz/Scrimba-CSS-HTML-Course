@@ -1,0 +1,18 @@
+.main {
+    margin-top: 100px;
+}
+
+body {
+    background: white;   /* red, blue, yellow, etc. */
+    
+}
+
+.logo-img {
+    width: 400px;
+    display: block; 
+}
+
+.input {
+    width: 300px;
+    display: block;
+}
