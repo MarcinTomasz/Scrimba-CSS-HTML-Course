@@ -1,10 +1,10 @@
 .main {
     margin-top: 100px;
+    text-align: center;
 }
 
 body {
     background: white;   /* red, blue, yellow, etc. */
-    
 }
 
 .logo-img {
@@ -12,7 +12,40 @@ body {
     display: block; 
 }
 
-.input {
+.search-input {
     width: 300px;
     display: block;
+    line-height: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border: 1px solid #25272b;
+    border-radius: 24px;
+}
+
+.btn {
+    
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 14px;
+}
+
+.btn {
+    
+    margin-top: 30px;
+    background: #dfe1e5;
+    border: none;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 20px;
+    padding-left: 20px;
+    border-radius: 4px;
+    font-size: 14px;
 }
