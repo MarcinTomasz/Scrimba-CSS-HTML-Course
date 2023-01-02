@@ -25,7 +25,6 @@ body {
 }
 
 .btn {
-    
     margin-top: 30px;
     background: #dfe1e5;
     border: none;
@@ -37,8 +36,14 @@ body {
     font-size: 14px;
 }
 
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+}
+
 .btn {
-    
+    margin-left: 4px;
+    margin-right: 4px;
     margin-top: 30px;
     background: #dfe1e5;
     border: none;
