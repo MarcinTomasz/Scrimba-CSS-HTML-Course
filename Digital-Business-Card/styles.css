@@ -3,5 +3,11 @@ body {
 }
 
 .profile {
-  width: 50%;
+  width: 150px;
+}
+
+.card {
+  border: 5px dotted blue;
+  padding: 20px;
+  display: flex;
 }
