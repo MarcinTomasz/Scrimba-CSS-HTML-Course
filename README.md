@@ -1,2 +1,2 @@
 # Scrimba-CSS-HTML-Course
-Course from FreeCodeCamp
+These are the projects from the freeCodeCamp.com Scrimba pages.
