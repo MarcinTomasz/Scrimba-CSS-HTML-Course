@@ -12,3 +12,12 @@ body {
     border: none;
     font-family: inherit;
 }
+
+.underline {
+    color: rgb(225, 91, 91);
+    border-bottom: 8px solid orange; 
+}
+
+#main-logo {
+    width: 100px;
+}
