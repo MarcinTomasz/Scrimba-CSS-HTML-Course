@@ -1,7 +1,7 @@
 body {
     text-align: center;
     font-family: 'Happy Monkey', cursive;
-    background: rgba(90, 86, 85, 0.408);
+    background: linear-gradient(blue, pink);
     color: #ffffff;
     display: flex;
     flex-direction: column;
@@ -47,7 +47,7 @@ h1, h2, h3, h4 p {
 }
 
 .gift-hint {
-    margin-top: 0;
+    margin-top: 100;
 }
 
 .gift-img {
@@ -84,3 +84,12 @@ h1, h2, h3, h4 p {
     height: 200px;
 }
 
+#footer {
+    font-style: italic;
+    width: 400px;
+    margin: 40px auto 20px;
+}
+
+a {
+    color: red;
+}
